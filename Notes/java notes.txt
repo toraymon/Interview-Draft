@@ -1,0 +1,10 @@
+interpereted language - does not covert the code into anything, runs it through the parser, runs it and then moves onto the next line. when it fails it'll be when that line is run
+
+compiled language - converts the source code into binary machine code. machine code is platform dependant.
+
+refer to java notes
+protected (only visible when you extend or from same package)
+public (visible to everyone)
+private (visible only in the single class)
+default (visible only within package and not through extends)
+static - says the method or variable (in the class) is part of the class.

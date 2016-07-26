@@ -1,0 +1,25 @@
+programming paradigm
+difference btwn abstract interface and class
+MVC
+REST
+review a bit of C
+junit
+syncronized
+singleton
+generics
+java stuff that i missed
+hashtable vs hashmap
+memory leak
+size of int etc
+interface vs abstract class
+inheritance
+have interfaces when many classes have the same functionality but does it differently.
+syncronization how to know when thread is done? wait? stop?
+
+
+The parts that are the same are abstracted out.  
+The parts that vary need to be encapsulated.
+
+dev background, not much dev. support. capital markets
+
+data structure, sorts, fibinacci
