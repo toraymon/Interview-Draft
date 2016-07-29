@@ -23,3 +23,76 @@ The parts that vary need to be encapsulated.
 dev background, not much dev. support. capital markets
 
 data structure, sorts, fibinacci
+
+what are cookies
+
+binary tree
+insert node
+trees.
+
+array of int
+
+heap sort
+avl tree sort
+quick
+merge
+insert
+select
+
+what is a heap
+
+bucket sort
+
+
+
+implement vs extend (class to class, interface to interface)
+public static final is implicit for interfaces.
+lambda expressions
+
+
+
+O(n)
+
+c = a + b
+
+hashtable vs hasmap vs hashset
+
+hashmap - not ordered
+hashtable - thread safe.
+hashset - only unique values, returns 0 if trying to insert duplicate
+
+
+
+
+
+
+pokemongo.mandrasoft.fr
+pokevision.com
+thesilphroad.com
+pokeassistant.com
+pokerev.r3v3rs3.net
+pokelocate.io
+
+
+Very useful book for algorithm and data structure
+
+http://lib.mdp.ac.id/ebook/Karya%20Umum/Dsa.pdf
+
+Data Structure & Algorithm
+Design Patterns
+Threading
+Java Core
+Data Structure Comparison
+SQL Database
+
+did chris explain to us what
+
+
+static {
+}
+
+static block only runs once (not per instance)
+
+{}
+regular blocks run before the constructor. used when the consturctor might need to interact with some things.
+both constrcutor and regular blocks run PER instance
